@@ -9,6 +9,8 @@ Hi, my name is Ilya, I am a 5th-year student of Bauman Moscow State Technical Un
 <img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/C.png">
 <img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/C++.png">
 <img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Go.png">
+
+<br>
 <br>
 <br>
 
@@ -20,6 +22,8 @@ Hi, my name is Ilya, I am a 5th-year student of Bauman Moscow State Technical Un
 <img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Docker.png">
 <img align="left" alt= “C” height="40" style="padding-right:1px; background-color: white;" src="images/Airflow.png">
 <img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Boost.png">
+
+<br>
 <br>
 <br>
 
