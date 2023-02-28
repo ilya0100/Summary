@@ -4,20 +4,24 @@ Hi, my name is Ilya, I am a 5th-year student of Bauman Moscow State Technical Un
 
 # My technical stack
 
-* Languages:\
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/Python.png"> 
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/C.png"> 
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/C++.png">
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/Go.png">
+* Languages: 
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Python.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/C.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/C++.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Go.png">
+<br>
+<br>
 
-* Frameworks & Tools:\
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/NumPy.png">
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/Pandas.png">
-<img align="center" alt= “C” height="32" style="padding-right:1px; background-color: white;" src="images/Pytorch.png">
-<img align="center" alt= “C” height="40" style="padding-left:10px; padding-right:10px;" src="images/Scikit_learn.png">
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/Docker.png">
-<img align="center" alt= “C” height="40" style="padding-right:1px; background-color: white;" src="images/Airflow.png">
-<img align="center" alt= “C” height="40" style="padding-right:10px;" src="images/Boost.png">
+* Frameworks & Tools:
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/NumPy.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Pandas.png">
+<img align="left" alt= “C” height="40" style="padding-right:1px; background-color: white;" src="images/Pytorch.png">
+<img align="left" alt= “C” height="40" style="padding-left:10px; padding-right:10px;" src="images/Scikit_learn.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Docker.png">
+<img align="left" alt= “C” height="40" style="padding-right:1px; background-color: white;" src="images/Airflow.png">
+<img align="left" alt= “C” height="40" style="padding-right:10px;" src="images/Boost.png">
+<br>
+<br>
 
 # Projects
 * [MusicTranscription](https://github.com/ilya0100/MusicTranscription) - Neural network that converts audio signal into note sequence
